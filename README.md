@@ -8,7 +8,7 @@ Supports **colored terminal output**, conversation memory, and smooth interactiv
 ## Features
 
 - Built with Python 3.x
-- Integrated with Groq API (llama-3.1-8b-instant)
+- Integrated with Groq API (llama-3.1-8b-instant model)
 - Interactive console chatbot
 - Maintains chat history
 - Colorized output using [colorama](https://pypi.org/project/colorama/)
