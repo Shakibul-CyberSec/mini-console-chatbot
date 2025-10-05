@@ -35,7 +35,7 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 ```
 4.**Set up your Groq API key**
-- You can get you api key from [here](https://console.groq.com/keys).
+- You can get your api key from [here](https://console.groq.com/keys).
 - Create a .env file in the project root:
 ```
 GROQ_API_KEY=your_api_key_here
