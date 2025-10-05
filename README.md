@@ -8,7 +8,7 @@ Supports **colored terminal output**, conversation memory, and smooth interactiv
 ## Features
 
 - Built with Python 3.x
-- Integrated with Groq API (Mixtral model)
+- Integrated with Groq API (llama-3.1-8b-instant)
 - Interactive console chatbot
 - Maintains chat history
 - Colorized output using [colorama](https://pypi.org/project/colorama/)
@@ -35,6 +35,7 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 ```
 4.**Set up your Groq API key**
+- You can get you api key from [here](https://console.groq.com/keys).
 - Create a .env file in the project root:
 ```
 GROQ_API_KEY=your_api_key_here
