@@ -48,6 +48,9 @@ python3 mini_chatbot.py
 - Type your messages and press Enter
 - Type exit to quit the chat
 
+[![Watch Demo](https://drive.google.com/uc?export=view&id=1KBuPDZfy_hB199J4-Kw_lieql96dUfo2)](https://drive.google.com/file/d/1KBuPDZfy_hB199J4-Kw_lieql96dUfo2/view?usp=drive_link)
+
+
 ## Dependencies
 
 - [requests](https://pypi.org/project/requests/)
